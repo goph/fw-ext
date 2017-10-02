@@ -1,0 +1,10 @@
+package: github.com/goph/fw-ext
+import:
+- package: github.com/goph/fw
+  version: ~0.1.0
+- package: github.com/goph/emperror
+  version: ~0.5.0
+- package: github.com/airbrake/gobrake
+  version: ^3.1.0
+  subpackages:
+  - airbrake
