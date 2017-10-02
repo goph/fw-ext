@@ -7,6 +7,11 @@
 
 **Extensions for [goph/fw](https://github.com/goph/fw).**
 
+This repository contains extensions for [goph/fw](https://github.com/goph/fw).
+It also acts as an incubator for new features, so for now
+there is no BC promise for minor versions. Make sure to lock patch versions
+instead (using tilde operator).
+
 
 ## Installation
 
