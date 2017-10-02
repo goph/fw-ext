@@ -6,3 +6,4 @@
 ### Added
 
 - Airbrake support
+- Jaeger support
