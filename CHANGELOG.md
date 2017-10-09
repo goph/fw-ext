@@ -3,6 +3,11 @@
 
 ## Unreleased
 
+### Added
+
+- Health checking
+- Debug server
+
 ### Changed
 
 - Updated framework
