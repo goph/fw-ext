@@ -17,3 +17,5 @@ import:
   subpackages:
   - log
   - log/level
+- package: github.com/goph/healthz
+  version: ~0.9.0
